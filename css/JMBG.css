@@ -1,0 +1,28 @@
+body {
+    background-color: azure;
+}
+
+.bg-1{
+    background-color: blue;;
+    color: white;
+
+}
+
+.bg-2 {
+   color: red;
+}
+
+.bg-3 {
+  
+}
+
+
+form {
+    margin: 40px;
+}
+
+input {
+    10px;
+}
+
+
